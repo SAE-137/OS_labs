@@ -1,4 +1,4 @@
-# Компиляция C и C++
+
 *.o
 *.ko
 *.mod
@@ -10,7 +10,6 @@
 *.out
 *.exe
 
-# Папки сборки ядра
 modules.order
 Module.symvers
 
