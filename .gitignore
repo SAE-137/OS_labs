@@ -1,0 +1,30 @@
+# Компиляция C и C++
+*.o
+*.ko
+*.mod
+*.mod.*
+*.cmd
+*.order
+*.symvers
+*.d
+*.out
+*.exe
+
+# Папки сборки ядра
+modules.order
+Module.symvers
+
+*.swp
+*.swo
+*.tmp
+
+*.log
+
+*.a
+*.lst
+*.so
+
+*.vbox*
+
+.DS_Store
+Thumbs.db
